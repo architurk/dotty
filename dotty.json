@@ -1,6 +1,5 @@
-{
-   "wallpapers": [      
-      {
+[
+	{
          "author": "architurk",
          "url": "https://raw.githubusercontent.com/architurk/dOtty/master/dOtty_Super Mario 01.jpg",
          "name": "dOtty Super Mario 01"
@@ -54,6 +53,5 @@
          "author":"Super Mario Bros",
          "url":"https://github.com/architurk/ad_xp/raw/master/super_mario_wallpaper03.jpg",
          "name":"Super Mario Wallpaper 03"
-      }
-   ]
-}
+	}
+]
